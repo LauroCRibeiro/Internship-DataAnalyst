@@ -4,8 +4,8 @@ This is a simple project to elaborate how to deploy a Machine Learning model usi
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
 
-Flask version: 0.12.2
-conda install flask=0.12.2  (or) pip install Flask==0.12.2
+Flask version: 1.1.2
+conda install flask (or) pip install Flask
 
 ### Project Structure
 This project has four major parts :
