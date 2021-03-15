@@ -7,6 +7,14 @@ You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for A
 Flask version: 1.1.2
 conda install flask (or) pip install Flask
 
+### Create a virtual enviroment
+pip install virtualenv
+
+virtualenv salary-env
+
+- Mac OS / Linux: source mypython/bin/activate
+- Windows: mypthon\Scripts\activate
+
 ### Project Structure
 This project has four major parts :
 1. model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
