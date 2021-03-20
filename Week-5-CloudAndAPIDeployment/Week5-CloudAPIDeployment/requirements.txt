@@ -1,0 +1,12 @@
+Flask
+itsdangerous
+Jinja2
+jsonpickle
+jsonschema
+matplotlib
+numpy
+pandas
+pickleshare
+scikit-learn
+sklearn
+gunicorn
